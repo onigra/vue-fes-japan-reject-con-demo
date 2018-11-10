@@ -10,6 +10,12 @@ $ open localhost:8080
 # username: admin, password: admin
 ```
 
+# start api server at localhost:4000
+
+```bash
+$ yarn api
+```
+
 ## Build Setup
 
 ```bash
@@ -25,7 +31,4 @@ $ yarn start
 
 # generate static project
 $ yarn run generate
-
-# start api server at localhost:4000
-$ yarn api
 ```
